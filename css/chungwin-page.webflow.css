@@ -165,6 +165,7 @@ body {
 .html-embed {
   height: 600px;
   max-height: 600px;
+  margin-right: 5px;
 }
 
 .row {
@@ -177,6 +178,7 @@ body {
 .html-embed-2 {
   height: 600px;
   max-height: 600px;
+  margin-left: 5px;
 }
 
 .column-2 {
@@ -244,6 +246,18 @@ body {
   }
   .link-wrapper {
     margin-top: 10px;
+  }
+  .html-embed {
+    height: 300px;
+    max-height: 300px;
+    margin-bottom: 15px;
+    padding-bottom: 0px;
+    clear: none;
+  }
+  .html-embed-2 {
+    display: none;
+    height: 300px;
+    max-height: 300px;
   }
 }
 
